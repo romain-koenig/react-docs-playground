@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/romain-koenig/react-docs-playground/issues"
   },
-  "homepage": "https://github.com/romain-koenig/react-docs-playground#readme"
+  "homepage": "https://github.com/romain-koenig/react-docs-playground#readme",
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-react-app": "^9.1.2"
+  }
 }
