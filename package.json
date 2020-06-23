@@ -1,0 +1,20 @@
+{
+  "name": "react-docs-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/romain-koenig/react-docs-playground.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/romain-koenig/react-docs-playground/issues"
+  },
+  "homepage": "https://github.com/romain-koenig/react-docs-playground#readme"
+}
